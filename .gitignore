@@ -1,0 +1,17 @@
+/vendor/
+composer.lock
+
+/phpunit.xml
+/phpunit.xml.dist
+
+.idea/
+
+/.phpunit.result.cache
+/.phpstorm.meta.php
+
+/.phpunit.result.cache
+
+/phpstan.neon
+/psalm.xml
+
+/phpcs.xml
